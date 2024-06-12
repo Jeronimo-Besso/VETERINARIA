@@ -1,0 +1,7 @@
+1,joaquin,05512,gatos
+2,laura,45583,perros
+3,loreno,54056,caballos
+6,lucio,05562,urones
+6,lorenzo,05635,urones
+7,lorenzo,12441,urones
+7,lorenzo,09535,urones

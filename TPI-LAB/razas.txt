@@ -1,0 +1,3 @@
+bulldog,feo
+caniche,chiquito
+doberman,fuerte
