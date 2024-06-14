@@ -1,3 +1,0 @@
-1,ragnar,perro,bulldog,1
-2,lulu,perro,caniche,2
-3,luna,gato,doberman,3
