@@ -1,0 +1,3 @@
+T1,1,reliberan
+T2,2,inupirac
+T3,3,ibuprofeno
