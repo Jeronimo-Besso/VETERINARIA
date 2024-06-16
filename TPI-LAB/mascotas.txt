@@ -1,0 +1,4 @@
+1,roger,federer,chow chow,5
+2,roger,gato,bulldog,3
+3,lulu,perro,rottwailer,1
+4,lolo,gato,pitbull,1

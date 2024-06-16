@@ -1,0 +1,3 @@
+1,cuello lastimado por mordedura
+2,pata derecha quebrada
+3,uñas largas
