@@ -1,6 +1,0 @@
-1,jeronimo,300532
-2,francisco,506623
-3,felipe,466654
-4,jero,35515
-5,laureano,055436
-6,jose,06854

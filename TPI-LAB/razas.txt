@@ -1,5 +1,0 @@
-caniche,loco
-bulldog,samrt
-rottwailer,rojo
-pitbull,fuertes
-chow chow,peludos
