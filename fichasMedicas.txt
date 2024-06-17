@@ -1,0 +1,6 @@
+1,[Codigo consulta 1,en la fecha 20/05/2002,Mascota codigo 1, nombre roger, Raza chow chow, sus caracteristicas son peludos ,Nombre del propietario laureano, numero de telefono 055436, codigo 5,Atendido por: Veterinario joaquin,codigo 1,su telefono es 05512 y su especialidad es gatos,Numero diagnostico 1, el diagnostico es cuello lastimado por mordedura,Tratamiento codigo T1,es reliberan,Vacuna codigo 2, nombre antavirus, dosis aplicada 0.1
+],
+2,[Codigo consulta 2,en la fecha 15/10/2004,Mascota codigo 2, nombre roger, Raza bulldog, sus caracteristicas son samrt ,Nombre del propietario felipe, numero de telefono 466654, codigo 3,Atendido por: Veterinario joaquin,codigo 1,su telefono es 05512 y su especialidad es gatos,Numero diagnostico 1, el diagnostico es cuello lastimado por mordedura,Tratamiento codigo T2,es inupirac,Vacuna codigo 1, nombre covid, dosis aplicada 0.2
+],
+3,[],
+4,[],
